@@ -10,6 +10,14 @@ $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
 
+.content-container
+  padding-top: 8rem
+
+
+.site-title-container h1,
+.site-title-container h3
+  text-align: center
+
 .navbar .navbar-menu
   box-shadow:none !important
 
@@ -115,11 +123,11 @@ $menu-label-color: $white-ter
 // blog roll
 .blog-list-item.is-featured
   background-color: #d6400033;
-.blog-list-item header
+.blog-list-item a
   display: flex;
   margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
+  flex-basis: 100%;
   margin: 0 1.5em 0 0;
 
 
@@ -132,7 +140,7 @@ $menu-label-color: $white-ter
     flex-basis: 50%;
 
 +mobile
-  .blog-list-item header
+  .blog-list-item a
     display: block
   .blog-list-item .featured-thumbnail
     text-align: center;
