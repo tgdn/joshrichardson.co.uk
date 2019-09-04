@@ -1,43 +1,37 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import cx from 'classnames';
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-class BlogRoll extends React.Component {
-  render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
 
-    return (
-      <div className="columns is-multiline">
-        {posts &&
-          posts.map(({ node: post }) => (
-            <div className="is-parent column is-4" key={post.id}>
-              <article
-                className={`blog-list-item tile is-child ${
-                  post.frontmatter.featuredpost ? 'is-featured' : ''
-                }`}
-              >
-                <Link to={post.fields.slug}>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${
-                            post.title
-                          }`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                </Link>
-              </article>
-            </div>
-          ))}
-      </div>
-    )
-  }
+const BlogRoll = ({ data }) => {
+  const { edges: posts = [] } = data.allMarkdownRemark;
+
+  return (
+    <div className="columns is-multiline">
+      {posts.map(({ node: post }) => (
+          <div className="is-parent column is-4" key={post.id}>
+            <article className={
+              cx('blog-list-item tile is-child', {
+                'is-featured': post.frontmatter.featuredpost,
+              })
+            }>
+              <Link to={post.fields.slug}>
+                <div className="featured-thumbnail">
+                  <PreviewCompatibleImage
+                    imageInfo={{
+                      image: post.frontmatter.featuredimage,
+                      alt: `featured image thumbnail for post ${post.title}`,
+                    }}
+                  />
+                </div>
+              </Link>
+            </article>
+          </div>
+        ))}
+    </div>
+  );
 }
 
 BlogRoll.propTypes = {
@@ -58,7 +52,6 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
               id
               fields {
                 slug
@@ -70,7 +63,7 @@ export default () => (
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 500, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
