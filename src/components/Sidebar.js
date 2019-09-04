@@ -5,7 +5,7 @@ import { slide as Menu } from 'react-burger-menu';
 import './sidebar.sass';
 
 const Sidebar = () => (
-  <Menu>
+  <Menu disableAutoFocus>
     <Link className="menu-item" to="/">
       Home
     </Link>
