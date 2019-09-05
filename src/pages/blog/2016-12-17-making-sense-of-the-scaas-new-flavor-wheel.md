@@ -9,6 +9,5 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
 
 `youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`
