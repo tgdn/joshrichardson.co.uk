@@ -8,4 +8,4 @@ featuredimage: /img/clic-images-01_1340_c.jpg
 tags:
   - Morrisons CLIC Sargent
 ---
-Morrisons CLIC Sargent
+![](/img/clic-laptop.jpg)
