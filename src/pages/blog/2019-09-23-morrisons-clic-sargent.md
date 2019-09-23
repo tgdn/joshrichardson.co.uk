@@ -8,6 +8,10 @@ featuredimage: /img/clic-images-01_1340_c.jpg
 tags:
   - Morrisons CLIC Sargent
 ---
-![](/img/clic-laptop.jpg)
+```
 
-<https://www.youtube.com/watch?v=wo5qBHHONI0>
+```
+
+
+
+![](/img/clic-laptop.jpg)
