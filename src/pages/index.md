@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: joshua
-subheading: creative - london
-description: >-
-  lorem ipsum
+subheading: CREATIVE - LONDON
+description: lorem ipsum
 ---
+
