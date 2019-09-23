@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: joshua
+title: site under construction
 subheading: CREATIVE - LONDON
 description: lorem ipsum
 ---
