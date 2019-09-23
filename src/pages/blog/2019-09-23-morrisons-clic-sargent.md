@@ -12,4 +12,6 @@ tags:
 
 ```
 
+`youtube:https://www.youtube.com/embed/https://www.youtube.com/watch?v=wo5qBHHONI0`
+
 ![](/img/clic-laptop.jpg)
