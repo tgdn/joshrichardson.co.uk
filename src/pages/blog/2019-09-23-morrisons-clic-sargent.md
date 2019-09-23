@@ -4,14 +4,12 @@ title: Morrisons CLIC Sargent
 date: 2019-09-23T16:17:37.029Z
 description: Morrisons CLIC Sargent
 featuredpost: true
-featuredimage: /img/clic-images-01_1340_c.jpg
+featuredimage: /img/clic-images-01_1340_ccrop.jpg
 tags:
   - Morrisons CLIC Sargent
 ---
 ```
 
 ```
-
-
 
 ![](/img/clic-laptop.jpg)
