@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: site under construction
-subheading: CREATIVE - LONDON
+subheading: Josh Richardson  -  Creative  -  London
 description: lorem ipsum
 ---
 
