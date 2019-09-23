@@ -9,3 +9,5 @@ tags:
   - Morrisons CLIC Sargent
 ---
 ![](/img/clic-laptop.jpg)
+
+<https://www.youtube.com/watch?v=wo5qBHHONI0>
