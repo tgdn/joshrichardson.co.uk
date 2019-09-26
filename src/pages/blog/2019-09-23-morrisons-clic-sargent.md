@@ -26,7 +26,7 @@ description: >-
 
   This was the 1st piece of content Morrisons created for CLIC and 
 
-  have raised over £8.6 million to date.
+  has raised over £8.6 million to date.
 featuredpost: true
 featuredimage: /img/clic-images-01_1340_ccrop.jpg
 tags:
