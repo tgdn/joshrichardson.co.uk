@@ -9,3 +9,7 @@ tags:
   - Optegra - See For Yourself
 ---
 Optegra - See For Yourself
+
+
+
+![](/img/kv-1-jpegg.jpg)
