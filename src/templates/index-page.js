@@ -24,15 +24,13 @@ export const IndexPageTemplate = ({
         {subheading}
       </h3>
     </div>
-    <section className="section section--gradient">
-      <div className="container">
+    <section className="section--gradient">
+      <div className="">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="column is-12">
-                  <BlogRoll />
-                </div>
+            <div className="content" style={{ width: '100%' }}>
+              <div className="column is-12">
+                <BlogRoll />
               </div>
             </div>
           </div>
