@@ -1,8 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import cx from 'classnames';
-import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
+
+import { graphql, StaticQuery } from 'gatsby'
+
+import BlogListItem from './BlogListItem';
 
 
 const BlogRoll = ({ data }) => {
@@ -11,25 +12,11 @@ const BlogRoll = ({ data }) => {
   return (
     <div className="columns is-multiline">
       {posts.map(({ node: post }) => (
-          <div className="is-parent column is-4" key={post.id}>
-            <article className={
-              cx('blog-list-item tile is-child', {
-                'is-featured': post.frontmatter.featuredpost,
-              })
-            }>
-              <Link to={post.fields.slug}>
-                <div className="featured-thumbnail">
-                  <PreviewCompatibleImage
-                    imageInfo={{
-                      image: post.frontmatter.featuredimage,
-                      alt: `featured image thumbnail for post ${post.title}`,
-                    }}
-                  />
-                </div>
-              </Link>
-            </article>
-          </div>
-        ))}
+        <BlogListItem
+          post={post}
+          key={`post-item-${post.fields.slug}`}
+        />
+      ))}
     </div>
   );
 }
