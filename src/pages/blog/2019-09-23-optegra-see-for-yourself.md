@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+index: 5
 title: Optegra - See For Yourself
 date: 2019-09-23T16:49:16.050Z
 description: Optegra - See For Yourself
