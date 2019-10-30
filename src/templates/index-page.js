@@ -1,10 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+
+import logoFull from '../img/logo-full.png';
 
 export const IndexPageTemplate = ({
   title,
@@ -16,7 +17,11 @@ export const IndexPageTemplate = ({
       <h1
         className="site-title has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
       >
-        {title}
+        <img
+          className="home-logo-head"
+          src={logoFull}
+          alt={title}
+        />
       </h1>
       <h3
         className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
