@@ -6,8 +6,6 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
   const imageStyle = {};
   const { alt = '', childImageSharp, image } = imageInfo;
 
-  console.log(imageInfo)
-
   if (!!image && !!image.childImageSharp) {
     return (
       <Img

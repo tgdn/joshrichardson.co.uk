@@ -13,11 +13,14 @@ const BlogListItem = ({ post }) => {
         })
       }>
         <Link to={post.fields.slug}>
-          <div className="featured-thumbnail">
+          <div
+            className="featured-thumbnail"
+            data-title={post.frontmatter.title}
+          >
             <PreviewCompatibleImage
               imageInfo={{
                 image: post.frontmatter.featuredimage,
-                alt: `featured image thumbnail for post ${post.title}`,
+                alt: `featured image thumbnail for post ${post.frontmatter.title}`,
               }}
             />
           </div>
