@@ -12,7 +12,7 @@ description: >-
   everyone, some people want all the bells and all the whistles, so this car
   isn’t for everyone. But being the fastest growing car company in Europe
   winning award after award it's a car for the down to earth, straight-talking
-  folk that understand the market - not everyone.
+  folk that understand what they want.
 featuredpost: true
 featuredimage: /img/dacia.jpg
 tags:
