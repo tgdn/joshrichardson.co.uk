@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Optegra - See For Yourself
 date: 2019-09-23T16:49:16.050Z
-description: Optegra - See For Yourself
+description: Pitch won
 featuredpost: true
 featuredimage: /img/optegra-thumb.jpg
 tags:
