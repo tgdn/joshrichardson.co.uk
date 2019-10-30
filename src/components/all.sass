@@ -11,7 +11,7 @@ $body-color: #333
 $black: #2b2523
 
 .content-container
-  padding-top: 8rem
+  padding-top: 7rem
 
 
 .site-title-container h1,
@@ -121,28 +121,65 @@ $menu-label-color: $white-ter
     display: inline
 
 // blog roll
-.blog-list-item.is-featured
-  background-color: #d6400033;
+// .blog-list-item.is-featured
+//   background-color: #d6400033;
+
 .blog-list-item a
   display: flex;
   margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
   flex-basis: 100%;
-  margin: 0 1.5em 0 0;
+  // margin: 0 1.5em 0 0;
+
+.blog-list-item .featured-thumbnail
+  position: relative;
+
+.blog-list-item .featured-thumbnail::after
+  content: '';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: background ease .2s;
+  text-align: center;
+  color: #fff;
+
+.blog-list-item .featured-thumbnail:hover:after
+  content: attr(data-title);
+  background: rgba(0,0,0,.75);
+
+img.home-logo-head
+  display: block;
+  width: 300px;
+  margin: auto;
+
+
+.link-back-home
+  position: fixed;
+  right: 36px;
+  top: 36px;
+  color: #aaa;
+
+.link-back-home img
+  width: 100px
 
 
 @import "~bulma"
 
 
 // responsiveness
-+tablet-only
-  .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
+// +tablet-only
+//   .blog-list-item .featured-thumbnail
+//     flex-basis: 50%;
 
 +mobile
   .blog-list-item a
     display: block
   .blog-list-item .featured-thumbnail
     text-align: center;
-    max-width: 70%;
+    // max-width: 70%;
     margin: 0 0 1em;

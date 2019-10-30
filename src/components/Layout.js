@@ -1,13 +1,13 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import Footer from '../components/Footer'
-import Navbar from '../components/Navbar'
 import Sidebar from '../components/Sidebar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from "gatsby"
 
-const TemplateWrapper = ({ children }) => {
+import HomeLink from '../components/HomeLink';
+
+const TemplateWrapper = ({ children, isHome }) => {
   const { title, description } = useSiteMetadata()
   return (
     <div>
@@ -48,7 +48,10 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       {/* <Navbar /> */}
       <Sidebar />
-      <div className="content-container">{children}</div>
+      {!isHome && <HomeLink />}
+      <div className="content-container">
+        {children}
+      </div>
       {/* <Footer /> */}
     </div>
   )

@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+index: 13
 title: Serge De Nimes
 date: 2019-09-26T13:47:09.684Z
 description: Serge De Nimes

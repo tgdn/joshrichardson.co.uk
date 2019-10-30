@@ -1,10 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+
+import logoFull from '../img/logo-full.png';
 
 export const IndexPageTemplate = ({
   title,
@@ -16,7 +17,11 @@ export const IndexPageTemplate = ({
       <h1
         className="site-title has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
       >
-        {title}
+        <img
+          className="home-logo-head"
+          src={logoFull}
+          alt={title}
+        />
       </h1>
       <h3
         className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
@@ -24,15 +29,13 @@ export const IndexPageTemplate = ({
         {subheading}
       </h3>
     </div>
-    <section className="section section--gradient">
-      <div className="container">
+    <section className="section--gradient">
+      <div className="">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="column is-12">
-                  <BlogRoll />
-                </div>
+            <div className="content" style={{ width: '100%' }}>
+              <div className="column is-12">
+                <BlogRoll />
               </div>
             </div>
           </div>
@@ -53,8 +56,7 @@ const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <Layout>
-
+    <Layout isHome>
       <IndexPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
