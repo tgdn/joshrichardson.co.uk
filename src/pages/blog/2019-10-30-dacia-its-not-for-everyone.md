@@ -7,12 +7,12 @@ description: >-
 
 
   A simple range with no unnecessary extras or gadgets you'll never use,
-  designed to do exactly what a car should do, to get from A to B.All wrapped up
-  in simple designs that aren't over complicated. But this wont please everyone,
-  some people want all the bells and all the whistles, so this car isn’t for
-  everyone.But being the fastest growing car company in Europe winning award
-  after award its a car for the down to earth, straight-talking folk that
-  understand the market - they aren’t everyone
+  designed to do exactly what a car should do, to get from A to B. All wrapped
+  up in simple designs that aren't over complicated. But this wont please
+  everyone, some people want all the bells and all the whistles, so this car
+  isn’t for everyone. But being the fastest growing car company in Europe
+  winning award after award it's a car for the down to earth, straight-talking
+  folk that understand the market - not everyone.
 featuredpost: true
 featuredimage: /img/dacia.jpg
 tags:
@@ -20,6 +20,6 @@ tags:
 ---
 Dacia - It's Not For Everyone
 
-
-
 `youtube:https://www.youtube.com/embed/https://www.youtube.com/watch?v=Eg212wrPxww`
+
+![](/img/north-mock.jpg)
