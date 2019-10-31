@@ -34,4 +34,6 @@ tags:
 ---
 ![](/img/mock-2-sohk.jpg)
 
+`youtube:https://www.youtube.com/embed/https://www.youtube.com/watch?v=gbeBhmrq5Fc`
+
 ![](/img/ugo-bt.jpg)
