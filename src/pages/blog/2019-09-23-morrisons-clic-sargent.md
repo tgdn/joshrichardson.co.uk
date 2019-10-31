@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 4
+index: '3'
 title: Morrisons CLIC Sargent
 date: 2019-09-23T16:17:37.029Z
 description: >-
