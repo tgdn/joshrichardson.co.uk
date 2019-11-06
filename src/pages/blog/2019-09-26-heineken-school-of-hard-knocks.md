@@ -28,7 +28,7 @@ description: >+
   their full potential.
 
 featuredpost: true
-featuredimage: /img/700019007cl00018_heineken_p.jpg
+featuredimage: /img/thumb-rugby.jpg
 tags:
   - Heineken - School of Hard Knocks
 ---
