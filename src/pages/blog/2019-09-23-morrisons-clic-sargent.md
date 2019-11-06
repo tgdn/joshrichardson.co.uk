@@ -29,7 +29,7 @@ description: >-
 
   has raised over £8.6 million to date.
 featuredpost: true
-featuredimage: /img/clic-images-01_1340_ccrop.jpg
+featuredimage: /img/thumb-clic.jpg
 tags:
   - Morrisons CLIC Sargent
 ---
