@@ -64,6 +64,9 @@ module.exports = {
               width: 800,
               height: 400
             }
+          },
+          {
+            resolve: require.resolve(`${__dirname}/src/plugins/gatsby-remark-slides/index.js`)
           }
         ],
       },
