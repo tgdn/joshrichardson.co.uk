@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: '2'
+index: 2
 title: Last Minute.com - International Women's Day
 date: 2017-01-04T15:04:10.000Z
 description: >-

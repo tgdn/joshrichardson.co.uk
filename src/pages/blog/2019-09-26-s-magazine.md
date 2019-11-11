@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 12
+index: -10
 title: S Magazine
 date: 2019-09-26T14:08:20.071Z
 description: S Magazine

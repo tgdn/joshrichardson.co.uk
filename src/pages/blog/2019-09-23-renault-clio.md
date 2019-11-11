@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 6
+index: 100
 title: Renault Clio
 date: 2019-09-23T16:09:57.804Z
 description: Renault Clio
