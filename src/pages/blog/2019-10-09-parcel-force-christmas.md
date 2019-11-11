@@ -17,7 +17,7 @@ description: >-
 
   Christmas time is the busiest sector for deliveries, sending out hundreds of
   thousands of packages so we wanted to reinforce the message with a Christmas
-  postcard attached to their delivery,  
+  postcard attached to their delivery,
 
 
   Special Christmas deliveries from the ones in Red - Parcel Force
@@ -26,8 +26,5 @@ featuredimage: /img/red-1.jpg
 tags:
   - Parcel Force - Christmas
 ---
-![](/img/xmas-mock.jpg)
 
-![](/img/screenshot-2019-10-03-at-15.32.38.png)
-
-![](/img/screenshot-2019-10-03-at-15.13.55.png)
+`slides:[/img/xmas-mock.jpg,/img/screenshot-2019-10-03-at-15.32.38.png,/img/screenshot-2019-10-03-at-15.13.55.png]`
