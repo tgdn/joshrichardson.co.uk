@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 8
+index: 4
 title: Heineken - School of Hard Knocks
 date: 2019-09-26T13:37:03.746Z
 description: >+
