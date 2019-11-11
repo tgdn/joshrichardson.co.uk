@@ -3,8 +3,10 @@ import { Slides } from './Slides';
 
 const slideshow = {
   label: 'Slideshow',
-  id: 'slideshow',
-  pattern: /^slides:\[(.*?)\]$/,
+  id: 'slides',
+
+  pattern: /\`slides:\[(.*?)\]\`$/,
+
   fromBlock: (match) => {
     let slides = [];
     if (match) {
@@ -15,7 +17,7 @@ const slideshow = {
     }
     return { slides };
   },
-  toBlock: ({ slides = [] }) => `slides:[${slides.join(',')}]`,
+  toBlock: ({ slides = [] }) => `\`slides:[${slides.join(',')}]\``,
   toPreview: ({ slides }, getAsset) => {
     slides = slides
       .map(image => getAsset(image) || '')
