@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-remark-slides",
+  "description": "Create a slideshow from images",
+  "author": "Thomas Gak-Deluen",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "unist-util-visit": "^2.0.0"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "remark"
+  ]
+}
