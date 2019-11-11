@@ -3,7 +3,27 @@ templateKey: blog-post
 index: 13
 title: Serge De Nimes
 date: 2019-09-26T13:47:09.684Z
-description: Serge De Nimes
+description: >-
+  Brief - Every advertising agency portrays a strong, creative image of itself.
+  If you were an agency what would your image be? The answer -  IT WOULD BE
+  WEIRD
+
+
+  Introducing Joshua ‘SeaBiscuit’ Richardson & William ‘Sher-khan’ North.
+
+
+  This work was seen by Ollie Proudlock ( Made in Chelsea ) and his creative
+  team for the T-shirt company Serge De Nimes.
+
+
+  We were asked if we would like to shoot a very similar campaign inspired by
+  our power pose.
+
+
+  The photographs were used for the Serge Denimes  SS11 print campaign.
+
+
+  Photographed by Libby Robok
 featuredpost: true
 featuredimage: /img/horse-thumb.jpg
 tags:
