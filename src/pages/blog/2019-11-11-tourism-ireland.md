@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: '7'
+index: 7
 title: Tourism Ireland
 date: 2019-11-11T15:42:10.817Z
 description: >-
