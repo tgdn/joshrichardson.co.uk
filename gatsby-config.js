@@ -7,6 +7,14 @@ module.exports = {
       'creative - london',
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-sentry',
+      options: {
+        dsn: 'https://5757ab196053427c981f6c0ea71efc4f@sentry.io/1816218',
+        environment: process.env.NODE_ENV,
+        enabled: (() => ["production", "stage"].indexOf(process.env.NODE_ENV) !== -1)(),
+      }
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
