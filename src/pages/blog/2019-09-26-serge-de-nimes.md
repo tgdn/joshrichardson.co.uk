@@ -11,8 +11,6 @@ tags:
 ---
 ![](/img/196877_10150167033052718_508002717_8185110_6985602_n.jpeg)
 
-![](/img/top22.jpg)
-
 ![](/img/serge-logo-4_o.jpg)
 
 ![](/img/serge-logo-3_o.jpg)
