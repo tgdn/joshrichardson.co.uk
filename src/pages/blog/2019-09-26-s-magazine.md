@@ -10,3 +10,5 @@ tags:
   - S Magazine
 ---
 S Magazine
+
+`slides:[/img/10_600.jpg,/img/11_480.jpg,/img/1_600.jpg]`
