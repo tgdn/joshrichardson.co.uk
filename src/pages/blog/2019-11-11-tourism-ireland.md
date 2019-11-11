@@ -3,7 +3,14 @@ templateKey: blog-post
 index: '7'
 title: Tourism Ireland
 date: 2019-11-11T15:42:10.817Z
-description: Tourism Ireland
+description: >-
+  For St Patricks day Tourism Ireland challenged us to bring the feeling of
+  Ireland to London.
+
+
+  Overcoming various engineering hurdles we created an experiential 6 sheet with
+  real life 4 leaf clovers for people to pick and have good luck on St Patricks
+  day.
 featuredpost: true
 featuredimage: /img/tourism-ireland-thumb.jpg
 tags:
