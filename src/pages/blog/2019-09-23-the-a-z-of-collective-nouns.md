@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 7
+index: 2
 title: The A-Z of Collective Nouns
 date: 2019-09-23T16:34:04.593Z
 description: |-
