@@ -11,4 +11,4 @@ tags:
 ---
 S Magazine
 
-`slides:[/img/10_600.jpg,/img/11_480.jpg,/img/1_600.jpg]`
+`slides:[/img/10_600.jpg,/img/11_480.jpg,/img/4_600.jpg,/img/2_684.jpg,/img/5_684.jpg,/img/5fc07157d8a06fbb8455e1d6a2176b07_736.jpg,/img/9_684.jpg]`
