@@ -16,7 +16,7 @@ description: >-
   with the gender pay gap at 18.4% it felt only fitting that all women were
   given 18.4% off all flights and hotels to St Lucia.
 featuredpost: true
-featuredimage: /img/lastminute.jpg
+featuredimage: /img/lm-thumb.jpg
 tags:
   - Last Minute.com - International Women's Day
 ---
