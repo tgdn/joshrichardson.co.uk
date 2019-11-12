@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 7
+index: 5
 title: The Depaul Ex-Change
 date: 2019-11-12T13:48:02.746Z
 description: The Depaul Ex-Change
