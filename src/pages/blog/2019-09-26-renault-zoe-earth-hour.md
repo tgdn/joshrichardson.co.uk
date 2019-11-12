@@ -17,7 +17,7 @@ description: >-
   We created a reflective ink OOH for the Renault Zoe to encourage drivers to
   take part in Earth Hour
 featuredpost: true
-featuredimage: /img/prt_1553983954_2x.jpg
+featuredimage: /img/eath-hour-thumb-.jpg
 tags:
   - Renault Zoe - Earth Hour
 ---
