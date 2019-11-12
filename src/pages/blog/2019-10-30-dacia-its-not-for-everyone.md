@@ -15,7 +15,7 @@ description: >-
   winning award after award it's a car for the down to earth, straight-talking
   folk that understand what they want.
 featuredpost: true
-featuredimage: /img/dacia.jpg
+featuredimage: /img/dacia-thumb.jpg
 tags:
   - Dacia
 ---
