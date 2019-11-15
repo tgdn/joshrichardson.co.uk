@@ -38,3 +38,5 @@ tags:
 ![](/img/clic-laptop.jpg)
 
 ![](/img/helps_950.jpg)
+
+![](/img/clic-images-01_1340_c.jpg)
