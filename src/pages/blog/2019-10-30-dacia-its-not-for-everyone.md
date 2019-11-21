@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 3
+index: 4
 title: Dacia - It's Not For Everyone
 date: 2019-10-30T13:25:49.793Z
 description: >-
