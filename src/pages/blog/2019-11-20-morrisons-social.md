@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 22
+index: 20
 title: Morrisons Social
 date: 2019-11-20T22:21:25.280Z
 description: Morrisons Social
