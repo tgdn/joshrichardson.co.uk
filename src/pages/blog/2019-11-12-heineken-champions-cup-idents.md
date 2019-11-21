@@ -9,8 +9,6 @@ featuredimage: /img/champions-cup-thumb.jpg
 tags:
   - Heineken - Champions Cup Idents
 ---
-<https://youtu.be/4AKzbUQvwqo>
-
-
+`youtube https://www.youtube.com/watch?v=83G6jdC40Ts`
 
 Heineken - Champions Cup Idents
