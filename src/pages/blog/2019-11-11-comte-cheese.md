@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 10
+index: 22
 title: Comte Cheese
 date: 2019-11-11T14:42:49.494Z
 description: Comte Cheese
