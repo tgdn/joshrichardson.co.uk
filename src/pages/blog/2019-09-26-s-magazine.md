@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 index: 11
-title: S Magazine - Rankin
+title: S Magazine - The Rankin Issue
 date: 2019-09-26T14:08:20.071Z
 description: S Magazine
 featuredpost: true
