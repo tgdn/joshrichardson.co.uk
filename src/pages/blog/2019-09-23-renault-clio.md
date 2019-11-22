@@ -9,4 +9,8 @@ featuredimage: /img/clio-thumb.jpg
 tags:
   - Renault Clio
 ---
-Renault Clio
+![](/img/large_1340_c.jpg)
+
+![](/img/renault-edit-4_1340_c.jpg)
+
+![](/img/throwback-laptop.jpg)
