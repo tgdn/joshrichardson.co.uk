@@ -9,7 +9,7 @@ description: >-
 
   I contacted a Sake brewery with the intentions of running a press campaign and
   creating a new limited edition Sake, but as England fell just short in the
-  final the idea was put on hold, 4 more years...............
+  final the idea was put on hold, (never mind just 4 more years...............)
 featuredpost: true
 featuredimage: /img/rwc.jpg
 tags:
