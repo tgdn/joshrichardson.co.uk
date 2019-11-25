@@ -9,6 +9,4 @@ featuredimage: /img/depaul-thumb-2.jpg
 tags:
   - The Depaul Ex-Change
 ---
-The Depaul Ex-Change
-
-`youtube https://www.youtube.com/watch?v=fzJPO8iKQ-o`
+https://www.youtube.com/watch?v=fzJPO8iKQ-o
