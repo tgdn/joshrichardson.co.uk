@@ -3,7 +3,7 @@ templateKey: blog-post
 index: 1
 title: Morrisons CLIC Sargent
 date: 2019-09-23T16:17:37.029Z
-description: >
+description: >+
   In 2017 Morrisons partnership with CLIC Sargent.
 
 
@@ -30,12 +30,13 @@ description: >
   has raised over £8.6 million to date.
 
 
-  https://www.youtube.com/watch?v=wo5qBHHONI0
 featuredpost: true
 featuredimage: /img/thumb-clic.jpg
 tags:
   - Morrisons CLIC Sargent
 ---
+`https://www.youtube.com/watch?v=wo5qBHHONI0`
+
 `youtube:https://www.youtube.com/embed/https://www.youtube.com/watch?v=wo5qBHHONI0`
 
 ![](/img/clic-laptop.jpg)
