@@ -10,8 +10,8 @@ I'm positive in every aspect of my work and pride myself on having good common s
 
 A well rounded art director and copy writer, confident with any project and opportunity with a competent skill set of design and presentation.
 
-
-
 Get in touch - 07462634224 
 
 josh.richardson55@yahoo.co.uk
+
+![](/img/fullsizerender.jpg)
