@@ -14,6 +14,8 @@ featuredimage: /img/optegra-thumb.jpg
 tags:
   - Optegra - See For Yourself
 ---
+`https://www.youtube.com/watch?v=NEV2u7QEda0&t`
+
 `youtube:https://www.youtube.com/embed/https://www.youtube.com/watch?v=NEV2u7QEda0`
 
 ![](/img/kv-1-jpegg.jpg)
