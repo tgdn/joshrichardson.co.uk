@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Joshua - Advertising Creative based in London.
+title: Joshua - Advertising creative based in London.
 ---
 I fully understand a brief, its complexities, it's limitations and what is needed to cheat all of those things and make the best creative work.
 
