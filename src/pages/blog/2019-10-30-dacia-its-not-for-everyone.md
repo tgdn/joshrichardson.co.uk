@@ -3,7 +3,7 @@ templateKey: blog-post
 index: 4
 title: Dacia - It's Not For Everyone
 date: 2019-10-30T13:25:49.793Z
-description: >-
+description: >
   The Dacia Philosophy - Simple is smart.
 
 
@@ -14,6 +14,9 @@ description: >-
   isn’t for everyone. But being the fastest growing car company in Europe
   winning award after award it's a car for the down to earth, straight-talking
   folk that understand what they want.
+
+
+  https://www.youtube.com/watch?v=Eg212wrPxww
 featuredpost: true
 featuredimage: /img/dacia-thumb.jpg
 tags:
