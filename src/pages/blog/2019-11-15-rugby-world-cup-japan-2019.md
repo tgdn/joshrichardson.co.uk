@@ -15,6 +15,8 @@ featuredimage: /img/rwc.jpg
 tags:
   - Rugby World Cup - Japan 2019
 ---
+![](/img/sake-kvs.design-1.jpg)
+
 ![](/img/sake-kvs.001.jpeg)
 
 ![](/img/sake-kvs.002.jpeg)
