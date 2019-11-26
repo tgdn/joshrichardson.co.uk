@@ -24,7 +24,7 @@ tags:
 ---
 Dacia - It's Not For Everyone
 
-`youtube:https://www.youtube.com/embed/https://www.youtube.com/watch?v=Eg212wrPxww`
+`youtube:https://www.youtube.com/embed/Eg212wrPxww`
 
 ![](/img/north-mock.jpg)
 
