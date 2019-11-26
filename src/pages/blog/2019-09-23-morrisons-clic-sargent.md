@@ -35,9 +35,9 @@ featuredimage: /img/thumb-clic.jpg
 tags:
   - Morrisons CLIC Sargent
 ---
-`https://www.youtube.com/watch?v=wo5qBHHONI0`
 
-`youtube:https://www.youtube.com/embed/https://www.youtube.com/watch?v=wo5qBHHONI0`
+
+`youtube:https://www.youtube.com/embed/wo5qBHHONI0`
 
 ![](/img/clic-laptop.jpg)
 
