@@ -36,6 +36,8 @@ tags:
 
 `youtube:https://www.youtube.com/embed/gbeBhmrq5Fc`
 
+![](/img/img-6385_orig_1000.jpg)
+
 ![](/img/ugo-bt.jpg)
 
 https://www.facebook.com/HeinekenUK/videos/290724568052035
