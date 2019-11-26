@@ -34,8 +34,6 @@ tags:
 ---
 ![](/img/mock-2-sohk.jpg)
 
-`youtube:https://www.youtube.com/embed/https://www.youtube.com/watch?v=gbeBhmrq5Fc`
-
-`youtube:https://www.youtube.com/embed/https://www.facebook.com/HeinekenUK/videos/290724568052035/`
+`youtube:https://www.youtube.com/embed/gbeBhmrq5Fc`
 
 ![](/img/ugo-bt.jpg)
