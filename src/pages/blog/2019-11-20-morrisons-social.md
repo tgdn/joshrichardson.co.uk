@@ -9,7 +9,9 @@ featuredimage: /img/morrisons-healthy-thumb.jpg
 tags:
   - Morrisons Social
 ---
-`youtube https://www.youtube.com/watch?v=4AKzbUQvwqo`
+
+`youtube:https://www.youtube.com/embed/4AKzbUQvwqo`
+
 
 ![](/img/screen-shot-2018-01-22-at-15.03.35_861.png)
 
