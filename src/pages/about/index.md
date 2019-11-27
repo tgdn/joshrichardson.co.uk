@@ -14,6 +14,4 @@ Get in touch - 07462634224
 
 josh.richardson55@yahoo.co.uk
 
-![](/img/fullsizerender.jpg)
-
 ![](/img/josh-richardson-cv.png)
