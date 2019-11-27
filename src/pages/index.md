@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: joshua
-subheading: site under construction
+subheading: ' '
 description: lorem ipsum
 ---
 
