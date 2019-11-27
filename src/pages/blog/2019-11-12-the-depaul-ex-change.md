@@ -11,4 +11,4 @@ tags:
 ---
 https://www.youtube.com/watch?v=fzJPO8iKQ-o
 
-`youtube https://www.youtube.com/watch?v=fzJPO8iKQ-o`
+`youtube:https://www.youtube.com/embed/fzJPO8iKQ-o`
