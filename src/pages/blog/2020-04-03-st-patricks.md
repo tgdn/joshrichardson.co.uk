@@ -12,9 +12,7 @@ featuredimage: /img/guinness-thumb.jpg
 tags:
   - St Patricks
 ---
-![](/img/finals.001.jpeg)
-
-![](/img/finals.002.jpeg)
+![](/img/guinness-pair.jpg)
 
 ![](/img/final-st-pats.004.jpeg)
 
