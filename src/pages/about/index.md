@@ -2,9 +2,9 @@
 templateKey: about-page
 title: Joshua - Advertising creative based in London.
 ---
-I fully understand a brief, its complexities, it's limitations and what is needed to cheat all of those things and make the best creative work.
+I fully understand a brief, its complexities, it's limitations and what is needed to cheat all of those things to make the best creative work.
 
-I am versed in multidisciplinary platforms across TV, print, digital, social and DM.
+I am versed in multidisciplinary platforms across TV, print, digital, social, radio and DM.
 
 I'm positive in every aspect of my work and pride myself on having good common sense and a good sense of humour. 
 
