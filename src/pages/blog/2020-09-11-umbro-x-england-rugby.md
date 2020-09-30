@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-index: 6
+index: 2
 title: Umbro x England Rugby
 date: 2020-09-11T19:30:52.819Z
 description: >
@@ -19,10 +19,6 @@ featuredimage: /img/umbro-thumb.jpg
 tags:
   - Umbro x England Rugby
 ---
-
-
-
-
 ![](/img/wide-logo.jpg)
 
 ![](/img/eng-train.jpg)
