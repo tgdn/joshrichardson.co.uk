@@ -9,7 +9,7 @@ description: >
   With the release of the new England Rugby shirt by Umbro I designed a set of
   concept art logos.
 
-  I then collaborated with a photographer friend of mine Sam Todd, to create a
+  I then collaborated with a photographer friend of mine - Sam Todd, to create a
   test shoot that would reimagine the modern day rugby fan with subtle hints and
   hidden gems that true Rugby fans would see - The sweet chariot on the swings,
   the playground game of British Bulldog and the coaching technique of Total
