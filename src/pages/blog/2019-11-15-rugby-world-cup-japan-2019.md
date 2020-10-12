@@ -11,7 +11,7 @@ description: >-
   creating a new limited edition Sake, but as England fell just short in the
   final the idea was put on hold, (never mind just 4 more years...............)
 featuredpost: true
-featuredimage: /img/rwc.jpg
+featuredimage: /img/sake-flag-thumb.jpg
 tags:
   - Rugby World Cup - Japan 2019
 ---
