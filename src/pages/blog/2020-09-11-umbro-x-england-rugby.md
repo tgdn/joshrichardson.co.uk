@@ -9,10 +9,34 @@ description: >
   concept art logos.
 
   I then collaborated with a photographer friend of mine - Sam Todd, to create a
-  test shoot that would reimagine the modern day rugby fan with subtle hints and
-  hidden gems that true Rugby fans would see - The sweet chariot on the swings,
-  the playground game of British Bulldog and the coaching technique of Total
-  Control Under Pressure (TCUP)
+  test shoot that would reimagine the modern day rugby fan.
+
+
+  Many sports have negative stereotypes from by-gone generations.
+
+  One stigma Rugby Union holds is its accusation of elitism, an upper class game
+  played by the wealthy.
+
+
+  The public school boys that dwell in south west London, drinking champers from
+  the boots of Land Rovers is an outdated and untrue representation of todays
+  Rugby fanbase
+
+
+  Rugby today is a global game played from the grass routes up and enjoyed by
+  boys and girls of all races, creeds, ages and abilities.
+
+  Rugbys true value is acceptance and inclusion.
+
+
+  This work sets out to demonstrate Rugby fans are from all walks of life, to
+  see Rugby in a new light and to show stereotypes and preconceptions have no
+  place in sport.
+
+
+  Using subtle hints and hidden gems that true Rugby fans would see - The sweet
+  chariot on the swings, the playground game of British Bulldog and the coaching
+  technique of Total Control Under Pressure (TCUP)
 featuredpost: true
 featuredimage: /img/umbro-thumb.jpg
 tags:
