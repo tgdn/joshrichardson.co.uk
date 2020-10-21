@@ -26,7 +26,7 @@ description: >
   Rugby today is a global game played from the grass routes up and enjoyed by
   boys and girls of all races, creeds, ages and abilities.
 
-  Rugbys true value is acceptance and inclusion.
+  Rugbys true values are acceptance and inclusion.
 
 
   This work sets out to demonstrate Rugby fans are from all walks of life, to
