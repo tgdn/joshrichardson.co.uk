@@ -20,7 +20,7 @@ description: >
 
   The public school boys that dwell in south west London, drinking champers from
   the boots of Land Rovers is an outdated and untrue representation of todays
-  Rugby fanbase
+  Rugby fanbase.
 
 
   Rugby today is a global game played from the grass routes up and enjoyed by
@@ -32,6 +32,8 @@ description: >
   This work sets out to demonstrate Rugby fans are from all walks of life, to
   see Rugby in a new light and to show stereotypes and preconceptions have no
   place in sport.
+
+
 
 
   Using subtle hints and hidden gems that true Rugby fans would see - The sweet
