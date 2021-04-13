@@ -9,4 +9,4 @@ featuredimage: /img/oxfam-thumb.jpg
 tags:
   - Oxfam - Secondhand September
 ---
-`slides:[/img/hero-1.jpg,/img/hero-4.jpg,/img/hero-2.jpg,/img/cuddle.jpg,/img/dog.jpg,/img/tongue.jpg,/img/side-jumper.jpg,/img/jump.jpg,,]`
+`slides:[/img/screenshot-2021-04-13-at-18.12.38.png,/img/screenshot-2021-04-13-at-18.12.15.png,/img/screenshot-2021-04-13-at-18.11.45.png,/img/screenshot-2021-04-13-at-18.19.40.png,/img/screenshot-2021-04-13-at-18.18.29.png,/img/screenshot-2021-04-13-at-18.20.28.png,/img/screenshot-2021-04-13-at-18.20.28.png,/img/screenshot-2021-04-13-at-18.20.05.png,/img/screenshot-2021-04-13-at-18.18.51.png]`
