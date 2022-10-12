@@ -11,6 +11,4 @@ tags:
 ---
 `youtube https://youtu.be/8oz7f1tAEm4`
 
-![](/img/queen-review-doodle.jpg)
-
 https://youtu.be/8oz7f1tAEm4
