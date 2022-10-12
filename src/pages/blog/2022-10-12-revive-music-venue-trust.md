@@ -7,7 +7,7 @@ description: Revive - Music Venue Trust
 featuredpost: true
 featuredimage: /img/revive-thumb.jpg
 tags:
-  - Doodle Reviews
+  - Revive - Music Venue Trust
 ---
 `youtube https://youtu.be/8oz7f1tAEm4`
 
